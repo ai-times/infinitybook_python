@@ -1,0 +1,12 @@
+print("구구단 3단")
+print("3 x 1 = %d" % (3*1) )
+print("3 x 2 = %d" % (3*2) )
+print("3 x 3 = %d" % (3*3) )
+print("3 x 4 = %d" % (3*4) )
+print("3 x 5 = %d" % (3*5) )
+print("3 x 6 = %d" % (3*6) )
+print("3 x 7 = %d" % (3*7) )
+print("3 x 8 = %d" % (3*8) )
+print("3 x 9 = %d" % (3*9) )
+
+input() 

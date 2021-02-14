@@ -1,0 +1,7 @@
+strX, strY = input("두 정수 입력: ").split( )
+x = int(strX)
+y = int(strY)
+print("%3d + %3d = %5d" %(x,y,x+y) )
+print("%3d - %3d = %5d" %(x,y,x-y) )
+print("%3d * %3d = %5d" %(x,y,x*y) )
+print("%3d / %3d = %5d" %(x,y,x/y) )

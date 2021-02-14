@@ -1,0 +1,5 @@
+fp = open( "d:\\hello.txt", "w" ) 
+fp.write( "Hello World \n")
+fp.write( "My name is gildong \n" )
+fp.close( )
+print("파일을 찾아 열어보세요")
